@@ -14,7 +14,7 @@ main()
 	else break;
   }
   for(i=0;i<n;i++)
-  cout<<c[i]<<endl;;
+  cout<<c[i]<<endl;
 
   getch();
 }
